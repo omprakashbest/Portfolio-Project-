@@ -1,6 +1,6 @@
 # Customer Churn Analysis
 
-An end-to-end customer churn analysis project for an OTT-style subscription business. The project combines customer, subscription, and support data from a SQLite database, prepares an analysis-ready customer table, and examines churn, revenue exposure, contracts, plans, and support signals.
+An end-to-end customer churn analysis project for an OTT-style Platform. The project combines customer, subscription, and support data from a SQLite database, prepares an analysis-ready customer table, and examines churn, revenue exposure, contracts, plans, and support signals.
 
 ## Highlights
 
